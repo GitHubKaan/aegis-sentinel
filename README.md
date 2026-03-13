@@ -1,4 +1,4 @@
-# aegis-sentinel
+# AEGIS SENTINEL
 
 <img src="logo_white.png" width="500px"/>
 
